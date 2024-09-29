@@ -54,6 +54,5 @@ Welcome to the IoT Smart Monitoring System project! This system is designed to c
 
 Feel free to contribute! Fork the repository and make pull requests.
 
----
 
 Hope this README provides a clear structure for your project! Let me know if you need more details.
